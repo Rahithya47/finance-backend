@@ -23,11 +23,11 @@ A robust RESTful API backend for managing financial data with role-based access 
 
 ### Prerequisites
 - Node.js (v14+)
-- MongoDB (local or Atlas)
+- MongoDB Atlas or Local MongoDB
 
 ### Steps
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rahithya47/finance-backend.git
 cd finance-backend
