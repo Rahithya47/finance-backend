@@ -31,3 +31,5 @@ A robust RESTful API backend for managing financial data with role-based access 
 ```bash
 git clone https://github.com/Rahithya47/finance-backend.git
 cd finance-backend
+https://finance-backend-el79.onrender.com/
+https://finance-backend-el79.onrender.com/api/docs
